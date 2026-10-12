@@ -6,3 +6,8 @@ def get_user(user_id):
 def delete_user(user_id):
     query = f"DELETE FROM users WHERE id = {user_id}"
     return query
+
+
+
+
+#NEW CHANGES MADE BY ME LESTS GO
